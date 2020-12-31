@@ -1,0 +1,19 @@
+.btn-default {
+    min-width: 64px;
+    min-height: 30px;
+    color: var(--white-color);
+    border-radius: 3px;
+    border-color: transparent;
+    box-sizing: border-box;
+    background-color: var(--orange-color);
+    font-weight: 500;
+    font-size: 1.4rem;
+}
+
+.btn--search {
+    margin: 0 5px;
+    background-color: var(--grey-color);
+    color: var(--black-color);
+    font-weight: 400;
+    height: min-content;
+}

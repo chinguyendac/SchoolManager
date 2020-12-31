@@ -1,0 +1,26 @@
+.main {
+    background-color: #f7f7e9;
+    padding-bottom: 30px;
+    height: calc(100vh - 113px);
+}
+
+.container__heading-wrap {
+    height: 184px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.container__heading {
+    padding-top: 30px;
+    font-size: 3rem;
+    text-transform: uppercase;
+    color: var(--blue-color);
+    margin: auto;
+    font-weight: 500;
+}
+
+.container__content {
+    display: flex;
+}
+

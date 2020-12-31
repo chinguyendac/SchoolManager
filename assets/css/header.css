@@ -1,0 +1,27 @@
+.header {
+    background-color: var(--green-color);
+}
+
+.navbar {
+    height: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar__content {
+    
+}
+
+.navbar__heading {
+
+}
+
+.navbar__heading h1 {
+    margin: 0;
+    font-size: 2rem;
+    color: var(--white-color);
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
